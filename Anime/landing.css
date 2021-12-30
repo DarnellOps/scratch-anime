@@ -1,0 +1,37 @@
+body {
+    font-family: monospace;
+    background-color: rgb(160, 156, 156);
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    letter-spacing: .5em;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.textSpace {
+    font-size: 1.5em;
+
+}
+
+p {
+    text-align:cent;
+    margin-bottom: 100px;
+
+}
+
+h2 {
+    font-size: 1.8em;
+    text-align: center;
+    letter-spacing: .5em;
+    
+}
+
+span {
+    text-decoration: underline;
+}
+
+

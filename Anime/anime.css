@@ -1,0 +1,104 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1.8em;
+    margin: 0;
+    
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    
+}
+
+h1 {
+    margin-left: 110px;
+    padding: 20px;
+    color:rgb(73, 72, 72)
+}
+
+p {
+    line-height: 1.7em;
+    text-indent: 20px;
+    
+}
+
+.jumpImg {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.dbzImage {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.gohanGif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+.mhaImg {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.dbzCap {
+    margin-left: 90px;
+    }
+
+#mainHeader {
+    background-color: rgb(73, 72, 72);
+    color:white;
+    font-size: 1.5em;
+    padding: 20px;
+    background-image: url(../../Pictures/jump.jpeg);
+}
+
+.mainNav {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
+
+.mainNav ul {
+    padding: 0 250px;
+    list-style: none;
+
+    
+}
+
+.mainNav li {
+    display: inline;
+    padding: 0 10px 10px 10px;
+    width: 100%;
+    
+    
+
+}
+
+.mainNav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 5px;
+    display: inline-block;
+    
+}
+
+a:hover {
+    background-color: coral;
+    color: white;
+}
+
+footer {
+    padding: 20px 0;
+}
+
